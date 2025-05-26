@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rope
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in .NET and Rust
+- 🌱 I’m currently learning ASP.NET And Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mrroperoyale@gmail.com
 
