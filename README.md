@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET and Rust
 - 🌱 I’m currently learning ASP.NET And Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mrroperoyale@gmail.com
+- 📫 How to reach me : mrroperoyale@gmail.com </br>
 🪟 👉 🍄‍🟫
 <!---
 Rope-IRL/Rope-IRL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
