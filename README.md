@@ -1,8 +1,1 @@
-.net 👉 😍 </br>
-rust 👉 😍 </br>
-c/cpp 👉 😍</br> 
 
-🪟 👉 💩 </br>
-Asus 👉 💩 </br>
-
-😭
